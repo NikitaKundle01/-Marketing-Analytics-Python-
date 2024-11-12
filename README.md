@@ -1,4 +1,4 @@
-# -Marketing-Analytics-Python-Marketing Analytics For E-Commerce Market Place Company
+# -Marketing-Analytics-Python
 
 Business Problem - Client( leading E-Commerce company) want to take data driven decision about business and understand customer, seller behaviors, product behavior and channel behavior etc... which help him in measuring, managing and analysing performance of business.
 
